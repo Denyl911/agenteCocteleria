@@ -1,7 +1,6 @@
 module.exports = {
-    name: {
-        type: 'string',
-        index: true,
-    },
-    price: 'float'
-}
+  name: {
+    type: 'string',
+    index: true,
+  },
+};
